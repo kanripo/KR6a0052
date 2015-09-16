@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 大生義經
+#+DATE: 2015-08-30 19:29:47.479513
+#+PROPERTY: JUAN 0
